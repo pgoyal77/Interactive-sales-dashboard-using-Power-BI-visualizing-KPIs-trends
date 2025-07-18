@@ -30,12 +30,7 @@ This project is a professional **Power BI dashboard** built to visualize and ana
 
 ---
 
-## Dashboard Preview
-
-> *(Add a screenshot of your Power BI dashboard here for visual impact)*  
-> ![](Report.png)
-
----
+### I also added a Dashboard Preview in Report.png file. 
 
 ## Learnings
 
